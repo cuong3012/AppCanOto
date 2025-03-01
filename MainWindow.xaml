@@ -11,8 +11,14 @@
         <materialDesign:Card>
             <StackPanel>
                 <TextBlock Text="Hello, Material Design! i love you" 
-                            
-                            Margin="100"  FontSize="22" Foreground="DarkRed"/>
+             
+             Margin="100"  FontSize="22" Foreground="DarkRed"/>
+
+                <TextBlock Text="Hello, Material Design! i love you" 
+             
+             Margin="100"  FontSize="22" Foreground="DarkRed"/>
+                
+                
                 <Button Content="Click Me" 
                           
                          Margin="16"/>
