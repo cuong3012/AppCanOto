@@ -15,7 +15,7 @@
                             Margin="100"  FontSize="22" Foreground="DarkRed"/>
                 <Button Content="Click Me" 
                           
-                         Margin="8"/>
+                         Margin="16"/>
             </StackPanel>
         </materialDesign:Card>
     </Grid>
