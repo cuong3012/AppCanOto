@@ -23,6 +23,7 @@ namespace AppCanOto
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Hello World bbf");
         }
     }
 }

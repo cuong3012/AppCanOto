@@ -11,11 +11,11 @@
         <materialDesign:Card>
             <StackPanel>
                 <TextBlock Text="Hello, Material Design!" 
-                            Style="{StaticResource MaterialDesignHeadline6TextBlock}" 
-                            Margin="16"/>
+                            
+                            Margin="100"  FontSize="22" Foreground="DarkRed"/>
                 <Button Content="Click Me" 
-                         Style="{StaticResource MaterialDesignRaisedButton}" 
-                         Margin="16"/>
+                          
+                         Margin="8"/>
             </StackPanel>
         </materialDesign:Card>
     </Grid>
